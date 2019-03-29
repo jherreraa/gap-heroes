@@ -1,24 +1,25 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+This API stores fictional universes information, each universe has several heroes and 
+each hero has his specific information such as hero name, real name, etc.
 
-* Ruby version
+It is build with the following tools 
 
-* System dependencies
+* Ruby version 2.6.2
 
-* Configuration
+* Rails Version 5.2.2.1
 
-* Database creation
+* Database SQLite3
 
-* Database initialization
+Start Date:  Tuesday April 26th 2019 5:00 pm (GMT -5)
+End Date: Friday April 29th 2019 5:00 pm (GMT -5)
 
-* How to run the test suite
+The following features are incomplete
 
-* Services (job queues, cache servers, search engines, etc.)
+* Universe deletion
+* Universe edition
+* Unit Test
+* show relevant http headers only
+* some operation exceptions uncaught
 
-* Deployment instructions
-
-* ...
